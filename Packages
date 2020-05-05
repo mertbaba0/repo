@@ -26,3 +26,17 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: arc.tr
+Version: 1.0.4
+Section: Tweaks
+Maintainer: mertbaba0
+Depends: firmware (>12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/ru.rj.arc_1.0.4k_iphoneos-arm.deb
+Size: 5226
+MD5sum: 41BE6287CAED7BB12C1D7A94B8A4E2AB
+Description: arc
+Name: arc
+Author: mertbaba0
+Depiction: https://rejail.ru/pack/arc
+
