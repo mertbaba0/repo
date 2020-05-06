@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bottom</key>
+	<string>Alt</string>
+	<key>Button Style</key>
+	<string>Buton stili</string>
+	<key>Buttons</key>
+	<string>Butonlar</string>
+	<key>Dark</key>
+	<string>Kara</string>
+	<key>Default value is 2.5</key>
+	<string>Varsayılan değer 2.5</string>
+	<key>Default value is 25</key>
+	<string>Varsayılan değer 25</string>
+	<key>Default value is 50</key>
+	<string>Varsayılan değer 50</string>
+	<key>Developer</key>
+	<string>Geliştirici</string>
+	<key>Drag Distance</key>
+	<string>Sürükleme mesafesi</string>
+	<key>Drag area width</key>
+	<string>Sürükleme genişliği</string>
+	<key>General</key>
+	<string>Genel</string>
+	<key>Gesture Sensitivity</key>
+	<string>Hareket hassasiyeti</string>
+	<key>Icon Designer</key>
+	<string>Ikon tasarımcısı</string>
+	<key>Left</key>
+	<string>Sol</string>
+	<key>Light</key>
+	<string>Açık</string>
+	<key>Lockscreen Only</key>
+	<string>Sadece kilitekranı</string>
+	<key>Position</key>
+	<string>Pozisyon</string>
+	<key>Right</key>
+	<string>Sağ</string>
+	<key>System</key>
+	<string>Sistem</string>
+	<key>Top</key>
+	<string>Üst</string>
+	<key>Translucent</key>
+	<string>Yarı saydam</string>
+</dict>
+</plist>

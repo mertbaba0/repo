@@ -1,0 +1,14 @@
+Package: ru.rj.arc
+Version: 1.0.4k
+Architecture: iphoneos-arm
+Maintainer: mertbaba0
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
+Filename: /ru.rj.arc.deb
+Size: 630
+MD5sum: 41BE6287CAED7BB12C1D7A94B8A4E2AB
+SHA1: F96E4C76D5AC87D4674C413ABD7135B9132BA622
+SHA256: CB25ED318DEF1C9A6661DC81A42A7E48E3887E0D7D08DC5B6DFC7C668ED38851
+Section: Tweaks
+Description: https://rejail.ru/depiction.php?file=arc
+Author: mertbaba0
+Name: Arc

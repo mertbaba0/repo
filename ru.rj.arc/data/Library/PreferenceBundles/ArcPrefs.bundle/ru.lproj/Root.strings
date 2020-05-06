@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bottom</key>
+	<string>Внизу</string>
+	<key>Button Style</key>
+	<string>Стиль кнопок</string>
+	<key>Buttons</key>
+	<string>Кнопки</string>
+	<key>Dark</key>
+	<string>Темный</string>
+	<key>Default value is 2.5</key>
+	<string>По умолчанию 2.5</string>
+	<key>Default value is 25</key>
+	<string>По умолчанию 25</string>
+	<key>Default value is 50</key>
+	<string>По умолчанию 50</string>
+	<key>Developer</key>
+	<string>Разработчик</string>
+	<key>Drag Distance</key>
+	<string>Дистанция свайпа</string>
+	<key>Drag area width</key>
+	<string>Ширина площади кнопок</string>
+	<key>General</key>
+	<string>Дополнительно</string>
+	<key>Gesture Sensitivity</key>
+	<string>Чувствительность жеста</string>
+	<key>Icon Designer</key>
+	<string>Дизайнер иконок</string>
+	<key>Left</key>
+	<string>Слева</string>
+	<key>Light</key>
+	<string>Светлый</string>
+	<key>Lockscreen Only</key>
+	<string>Только на экране блокировки</string>
+	<key>Position</key>
+	<string>Расположение</string>
+	<key>Right</key>
+	<string>Справа</string>
+	<key>System</key>
+	<string>Системный</string>
+	<key>Top</key>
+	<string>Сверху</string>
+	<key>Translucent</key>
+	<string>Прозрачность</string>
+</dict>
+</plist>
