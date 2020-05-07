@@ -1,25 +1,12 @@
-Package: com.twickd.tycho.mojave-dynamic-wallpapers
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: mertbaba0
-Depends: mobilesubstrate, wallpaperloader
-Filename: /com.twickd.tycho.mojave-dynamic-wallpapers_1.0_iphoneos-arm.deb
-Size: 9523500
-MD5sum: afaaf4411ce5ce22fce0ed145d9d77aa
-Section: Tweaks
-Description: mertbaba0
-Author: mertbaba0
-Name: Mojave Dynamic Wallpapers
-
-Package: ru.rj.arc
+Package: mertbaba0.tr
 Version: 1.0.4k
 Architecture: iphoneos-arm
 Maintainer: mertbaba0
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
-Filename: /ru.rj.arc_1.0.4k.deb
-Size: 590294
+Filename: /mertbaba0.tr.deb
+Size: 1076
 MD5sum: 829195a050e73dc7c57be291494ae529
 Section: Tweaks
-Description: mertbaba0
+Description: https://rejail.ru/depiction.php?file=arc
 Author: mertbaba0
 Name: Arc
