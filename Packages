@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: mertbaba0
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
 Filename: /ru.rj.arc.deb
-Size: 644744
+Size: 644880
 MD5sum: f43551ebb9e64965f6cf28f115c87f89
 Section: Tweaks
 Description: mertbaba0
