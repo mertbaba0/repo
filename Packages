@@ -5,7 +5,7 @@ Maintainer: mertbaba0
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
 Filename: /mertbaba0.tr.deb
 Size: 1076
-MD5sum: 829195a050e73dc7c57be291494ae529
+MD5sum: b40f761b7f909be9b7309ab7e7eafc92
 Section: Tweaks
 Description: https://rejail.ru/depiction.php?file=arc
 Author: mertbaba0
