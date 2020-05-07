@@ -10,3 +10,16 @@ Section: Tweaks
 Description: mertbaba0
 Author: mertbaba0
 Name: Mojave Dynamic Wallpapers
+
+Package: ru.rejail.lynx_1.2.7_iphoneos-arm
+Version: 1.2.7
+Architecture: iphoneos-arm
+Maintainer: mertbaba0
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicke
+Filename: /ru.rejail.lynx_1.2.7_iphoneos-arm.deb
+Size: 499414
+MD5sum: b09171020a849bae292215f04b6b1020
+Section: Tweaks
+Description: mertbaba0
+Author: mertbaba0
+Name: lynx
