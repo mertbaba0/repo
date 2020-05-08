@@ -3,10 +3,25 @@ Version: 1.0.4k
 Architecture: iphoneos-arm
 Maintainer: mertbaba0
 Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap (>= 1.0.3), applist
-Filename: /ru.rj.arc.deb
+Filename: /debs/ru.rj.arc.deb
 Size: 644880
 MD5sum: f43551ebb9e64965f6cf28f115c87f89
 Section: Tweaks
 Description: mertbaba0
 Author: mertbaba0
 Name: Arc tr
+Depiction: https://rejail.ru/depiction.php?file=arc
+
+Package: nicesiri-gold.platykor.com
+Version: 6.8
+Architecture: iphoneos-arm
+Maintainer: mertbaba0
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: /debs/nicesiri-gold.platykor.com.deb
+Size: 1206762
+MD5sum: a3a1de380bcbbad5879acd51a1298a5e
+Section: Tweaks
+Description: mertbaba0
+Author: mertbaba0
+Name: Nicesiri tr
+Depiction: https://www.bbgraphic.it/nice
