@@ -24,4 +24,29 @@ Section: Tweaks
 Description: mertbaba0
 Author: mertbaba0
 Name: Nicesiri tr
-Depiction: https://www.bbgraphic.it/nice
+
+Package: com.polytweaks.aerial2
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: mertbaba0
+Depends: mobilesubstrate, preferenceloader
+Filename: /debs/com.polytweaks.aerial2.deb
+Size: 103384
+MD5sum: ae0f8a474a97d92a51e2b37779cfadf5
+Section: Tweaks
+Description: mertbaba0
+Author: mertbaba0
+Name: Aeriel 2
+
+Package: com.platykor.yobunpro.deb
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: mertbaba0
+Depends: mobilesubstrate
+Filename: /debs/com.platykor.yobunpro.deb
+Size: 336334
+MD5sum: 43fbaa36e3f067f9109f1db46fd1a344
+Section: Tweaks
+Description: mertbaba0
+Author: mertbaba0
+Name: Yobun pro
